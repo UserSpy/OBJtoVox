@@ -2,6 +2,7 @@
 Voxelizes .obj models with textures into colored .vox files
 
 This was built using AI. Neither of us are happy about this but I have no idea how long this would have taken me if I did it fully myself. This is free and only took a couple days of work.
+My original goal with this was so I could import 3d models into Teardown. However I'm also working on a Vox to Minecraft Schematic/Litematic converter and plan to eventually release an all in one.
 
 ## Usage
 
